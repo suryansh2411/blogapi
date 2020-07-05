@@ -6,7 +6,7 @@ Blogapi is an API (Application Programming Interface) for a blog app which uses 
 
 * pip install -r requirements.txt
 
-* python maage.py makemigrations
+* python manage.py makemigrations
 
 * python manage.py migrate
 
