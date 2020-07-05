@@ -4,14 +4,14 @@ Blogapi is an API (Application Programming Interface) for a blog app which uses 
 
 # To run :-
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
-python maage.py makemigrations
+* python maage.py makemigrations
 
-python manage.py migrate
+* python manage.py migrate
 
-python manage.py runserver
+* python manage.py runserver
 
-goto :- http://127.0.0.1:8000/admin - For Admin Page
+* goto :- http://127.0.0.1:8000/admin - For Admin Page
 
-http://127.0.0.1:8000/api - For API (Data Format - JSON)
+* http://127.0.0.1:8000/api - For API (Data Format - JSON) 
