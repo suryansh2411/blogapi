@@ -11,3 +11,7 @@ python maage.py makemigrations
 python manage.py migrate
 
 python manage.py runserver
+
+goto :- http://127.0.0.1:8000/admin - For Admin Page
+
+http://127.0.0.1:8000/api - For API (Data Format - JSON)
